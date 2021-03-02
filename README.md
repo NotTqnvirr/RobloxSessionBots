@@ -9,3 +9,5 @@ Have a nice day!
 Bot made by ProjectTqnvirr & Justin
 
 Join our support server: https://discord.gg/RTM7CUdD8R
+
+Use This On Repl.it
